@@ -1,0 +1,6 @@
+  <svg width="250" height="250"  xmlns="http://www.w3.org/2000/svg">
+    <symbol id="house" viewbox="0 0 250 250">
+    <polyline points="30,140 180,10 320,140" fill="white" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="50,240 150,100" fill="white" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </svg>
